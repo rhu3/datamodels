@@ -8,8 +8,9 @@ This GitHub repository contains a collection of Markdown files describing differ
 * Couchbase: couchbase.md
 * Neo4J: neo4j.md
 * Redis: redis.md
-* InfluxDB: influxdb.md
+* Amazon DynamoDB: amazon_dynamodb.md
 * Cassandra: cassandra.md
 * OrientDB: orientdb.md
 * ArangoDB: arangodb.md
+* Extra Credit TimescaleDB: ec_timescaledb.md
               
