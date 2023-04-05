@@ -2,7 +2,7 @@
 
 # Databases #
 
-This GitHub repository contains a collection of Markdown files describing different database products that are not covered in this course.
+This GitHub repository contains a collection of Markdown files describing different database products that are not covered in INFO 330 course.
 
 * SQLite: sqlite.md
 * Couchbase: couchbase.md
